@@ -244,6 +244,7 @@ body{
         .form-field .btn{
         width:300px;
         padding:3%;
+            margin-top:4%;
         }
         .contain-image{
         width:100%;
@@ -270,6 +271,14 @@ body{
         margin-right:0px;
         opacity:0.6;
         margin-bottom: 5%;
+        }
+            .form-field small{
+            display: block;
+            color:red;
+            position: absolute;
+            font-size:12px;
+            margin-left:10px;
+            margin-top:25px;
         }
       }
 
