@@ -234,7 +234,12 @@ body{
         justify-content: center;
         align-items: center;
         flex-direction:column;
-    
+        .form{
+            display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction:column;
+            
         }
         .form-field .btn{
         width:300px;
